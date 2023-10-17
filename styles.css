@@ -10,6 +10,15 @@ nav {
     font-size: 2rem;
 }
 
+ul{
+    display: flex;
+}
+
+ul li {
+    padding: 4px;
+    list-style: none;
+}
+
 h1{
  font-size: 3rem;
 }
